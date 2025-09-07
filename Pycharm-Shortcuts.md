@@ -12,6 +12,7 @@
 - `Ctrl + Shift + I:` Quick definition.
 - `Ctrl + Q:` Quick documentation.
 - `Shift + F1:` External documentation.
+- 'Shift + Alt + Arrow Down:' Copy the same line to next 
 - `Alt + Insert:` Generate code.
 - `Ctrl + O:` Override members.
 - `Ctrl + I:` Implement members.
